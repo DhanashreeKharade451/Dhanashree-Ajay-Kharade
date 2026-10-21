@@ -46,10 +46,12 @@ A responsive web application that displays location information based on an IP a
 
 ## 🌱 Currently Learning
 
+-Building Bootstrap project
 - Building full-stack applications using the MERN stack
 - Improving JavaScript and React.js problem-solving skills
 - Developing backend APIs and database integration
 - Exploring AI-powered application development
+  -Exploring  Kubernetes and Docker
 
 ## 🤝 Let's Connect
 
